@@ -7,6 +7,7 @@
 # Bigfroot
 
 [![Discord](https://img.shields.io/badge/Discord-bigfroot-5865F2?logo=discord&logoColor=white)](https://discord.gg/bigfroot)
+[![Repo views](https://api.visitorbadge.io/api/VisitorHit?user=xspww&repo=RAE&label=Repo%20views&labelColor=2b2930&countColor=0072b4)](https://github.com/xspww/RAE)
 
 </div>
 
@@ -28,11 +29,13 @@
 
 ### Macros
 
+Boss Rush<br>
 Coral Kingdom - Tidal Siege<br>
 Crimson Shore<br>
 East Town<br>
 Fairy King Forest<br>
 Flower Forest<br>
+Gate Boss Rush<br>
 Kings Tomb<br>
 Rose Kingdom<br>
 School Grounds<br>
@@ -43,6 +46,3 @@ Spirit City ACT 1<br>
 Spirit City ACT 2<br>
 Spirit City ACT 3<br>
 Summer Portal
-
-</div>
-"# RAE" 
