@@ -34,6 +34,7 @@ Coral Kingdom - Tidal Siege<br>
 Crimson Shore<br>
 East Town<br>
 Fairy King Forest<br>
+Flaming Monastery<br>
 Flower Forest<br>
 Gate Boss Rush<br>
 Kings Tomb<br>
